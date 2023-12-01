@@ -22,5 +22,10 @@ The code generates the following results:
 1. Excel sheet for individual pollutants/meteorological parameters for every station for all years. The folders are named based on the pollutant/meteorological parameters.
 2. Excel sheet for individual pollutants/meteorological parameters for each year with all stations aligned one after the other. The mean and standard deviation are also included in the results.
 3. Daily Data folder that contains the daily pollutants/meteorological parameters for each year. Heat maps are also generated, where the x-axis shows the day of the year and the y-axis shows the year. The color of the cell signifies the pollutant concentration.
+![DailyPM2 5](https://github.com/NotnirwaN/CPCB_Data_Manager/assets/106248449/df6aed8c-d6cc-4eb6-b0e7-eef0e7a70693)
+
 4. Weekly Data folder that contains the weekly pollutants/meteorological parameters for each year. Heat maps are also generated, where the x-axis shows the week of the year and the y-axis shows the year. The color of the cell signifies the pollutant concentration.
-5. A text file is generated that contains the mean and standard deviation 
+![WeeklyPM2 5](https://github.com/NotnirwaN/CPCB_Data_Manager/assets/106248449/c6affea5-6865-4608-a861-c95067759953)
+
+6. A text file is generated that contains the mean and standard deviation 
+
